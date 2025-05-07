@@ -1,5 +1,6 @@
 # WeatherComponent - Componente de Clima para Java Swing
 
+![Uploading Screenshot 2025-05-07 094346.png…]()
 
 
 ## Tabla de Contenidos
