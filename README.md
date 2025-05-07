@@ -1,6 +1,6 @@
 # WeatherComponent - Componente de Clima para Java Swing
 
-![WeatherComponent Screenshot](ruta/a/tu/imagen.png)
+
 
 ## Tabla de Contenidos
 
@@ -311,7 +311,7 @@ public class WeatherComponent extends JPanel {
 
 ```
 
-
+### Componente visual agregado en proyecto
 ![Captura de pantalla (33)](https://github.com/user-attachments/assets/5060a55a-4960-4fb3-82b7-7c3b89e56559)
 
 ## Licencia
