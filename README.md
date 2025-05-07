@@ -314,8 +314,23 @@ public class WeatherComponent extends JPanel {
 ```
 
 ### Componente visual agregado en proyecto
+Aca se puede ver una previsualizacion de como es el componente
 ![Captura de pantalla (33)](https://github.com/user-attachments/assets/5060a55a-4960-4fb3-82b7-7c3b89e56559)
 
+Mostraremos algunas de las propiedades modificables que tiene este componente en este caso el color de el panel del componente.
+![Captura de pantalla (35)](https://github.com/user-attachments/assets/d6f8e2b5-470a-4d42-8fc7-9a3aedf7b4f0)
+
+El color de degradado del componente 
+![Captura de pantalla (36)](https://github.com/user-attachments/assets/d22c2a8b-2698-4db6-b895-34936645e165)
+
+La imgen con la cual eligiremos saber su clima
+![image](https://github.com/user-attachments/assets/a01e1e3c-b9be-49cb-9121-7bfcc1008010)
+
+Como un adicional podemos selccionar como mostrar la temperatura ya sea en celcius o Fahrenheit
+![image](https://github.com/user-attachments/assets/5801be39-211d-4d19-8e9b-39d3ea5ffb74)
+
+Si llegas a tner alguna duda para saber como se usa aca te dejamos un video donde te mostramos el paso a paso de como se usa:
+https://www.youtube.com/watch?v=F22ZnhI_ve8&t=1s
 ## Licencia
 
 **MIT License**
