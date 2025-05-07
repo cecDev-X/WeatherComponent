@@ -1,6 +1,7 @@
 # WeatherComponent - Componente de Clima para Java Swing
 
-![Uploading Screenshot 2025-05-07 094346.png…]()
+
+![Screenshot 2025-05-07 094346](https://github.com/user-attachments/assets/21f3c486-1d62-4c61-8097-3e11b1dbd246)
 
 
 ## Tabla de Contenidos
