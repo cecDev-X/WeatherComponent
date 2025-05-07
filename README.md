@@ -122,6 +122,8 @@ Este componente incluye soporte para la paleta de NetBeans:
 
 - `createPaletteComponent()`: Crea una instancia para que el componente esté disponible en la paleta de NetBeans.
 
+![Captura de pantalla (33)](https://github.com/user-attachments/assets/5060a55a-4960-4fb3-82b7-7c3b89e56559)
+
 ## Licencia
 
 **MIT License**
